@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error">Empty</string>
+    <string name="hours">Hours</string>
+    <string name="days">Days</string>
+
+</resources>
